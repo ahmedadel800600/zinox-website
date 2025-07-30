@@ -22,7 +22,7 @@
     }
   </style>
 </head>
-<body>
+<body><img src="images/zinox-logo.png" alt="ZinoX Logo">
   <h1>ZinoX Token</h1>
   <p>The future of crypto starts here.</p>
 </body>
